@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"&kp LC(LA(DEL))"
+		],
+		"description": "&kp LC(LA(DEL))",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
